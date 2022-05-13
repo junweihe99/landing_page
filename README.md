@@ -21,3 +21,8 @@ Landing page is a recreation of a typical website homepage. The overall structur
     <li>Personalize the website
     <li>Add interactivity
   </ul>
+
+<h4>Credits</h4>
+  <ul>
+  <li><a href="https://www.theodinproject.com/lessons/foundations-landing-page">The Odin Project</a>
+  </ul>
