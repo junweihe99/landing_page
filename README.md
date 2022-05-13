@@ -1,2 +1,3 @@
 # landing_page
-For this project, I will be building a website from scratch using a template provided from TOP.
+Landing Page
+-This project is a recreation of a typical website homepage. The overall structure of the website was set up using HTML and then styled using CSS.
