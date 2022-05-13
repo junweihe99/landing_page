@@ -18,4 +18,6 @@ Landing page is a recreation of a typical website homepage. The overall structur
 <h4>Improvements to Add</h4>
   <ul>
     <li>The project was designed and implemented while I was working at at 50% screen capacity; therefore, at full-screen the webpage looks stretched. In the future, I will restyle the webpage to be more dynamic.
+    <li>Personalize the website
+    <li>Add interactivity
   </ul>
